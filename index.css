@@ -18,15 +18,26 @@ h1 {
     padding: 10px;
     padding-left: 2%;
     padding-right: 2%;
-    border-radius: 10px;
+    border-radius: 50px;
     margin: auto;
 }
 
-.cartaimg {
+.letter_img {
     display: block;
     margin: auto;
     border-radius: 10px;
     padding: auto;
+    width: 50%;
+    height: auto;
+    cursor: pointer;
+}
+
+.dog_flower {
+    display: none;
+    margin: auto;
+    border-radius: 10px;
+    padding: auto;
+    padding-top: 2.5%;
     width: 50%;
     height: auto;
 }
@@ -35,20 +46,12 @@ h1 {
     background-color: white;
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px black;
     margin: auto;
     width: 50%;
     display: none;
 }
 
-.boton {
-    background-color: white;
+.display {
     padding: 10px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    margin: auto;
-    width: 69%;
-    text-align: center;
-    cursor: pointer;
-    display: block;
 }
