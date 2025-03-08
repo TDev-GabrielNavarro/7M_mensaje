@@ -18,6 +18,7 @@ h1 {
     padding: 10px;
     border-radius: 50px;
     margin: auto;
+    width: 50%;
 }
 
 .letter_img {
@@ -46,7 +47,7 @@ h1 {
     border-radius: 10px;
     box-shadow: 0 0 10px black;
     margin: auto;
-    width: 85%;
+    width: auto;
     display: none;
 }
 
