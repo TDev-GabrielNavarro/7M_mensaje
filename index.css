@@ -18,7 +18,8 @@ h1 {
     padding: 10px;
     border-radius: 50px;
     margin: auto;
-    width: 75%;
+    width: 80%;
+    max-width: auto;
 }
 
 .letter_img {
